@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "935386540382",
+    "firebase_url": "https://minder-ee513-default-rtdb.firebaseio.com",
+    "project_id": "minder-ee513",
+    "storage_bucket": "minder-ee513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935386540382:android:169bcb8eb2b2beebfb47cf",
+        "android_client_info": {
+          "package_name": "com.example.minder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935386540382-e6tod0ihn4lte1gkv72vleo1qp274a06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnU7D_kYwnkQstUSADWwZ62z2q7Dqdwt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935386540382-e6tod0ihn4lte1gkv72vleo1qp274a06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935386540382:android:43e430dadc764ad6fb47cf",
+        "android_client_info": {
+          "package_name": "com.example.wireless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935386540382-e6tod0ihn4lte1gkv72vleo1qp274a06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnU7D_kYwnkQstUSADWwZ62z2q7Dqdwt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935386540382-e6tod0ihn4lte1gkv72vleo1qp274a06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
